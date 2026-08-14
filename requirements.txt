@@ -1,0 +1,7 @@
+requests>=2.32
+python-dotenv>=1.0
+pandas>=2.2
+pyarrow>=17
+plotly>=5.24
+streamlit>=1.39
+jupyter>=1.1
