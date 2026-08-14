@@ -5,7 +5,7 @@
 
 Análise exploratória e dashboard interativo comparando as 5 grandes ligas europeias de futebol — Premier League, La Liga, Bundesliga, Serie A e Ligue 1 — na temporada 2025/26: vantagem de jogar em casa, poder ofensivo, disputa pelo título e times que superaram ou decepcionaram as expectativas.
 
-**[Ver o dashboard ao vivo →](https://analise-futebol-europeu.streamlit.app/)**
+**[Ver o dashboard ao vivo →](https://eduardofernandes7-analise-futebol-europ-appstreamlit-app-8mwax4.streamlit.app/)**
 
 <!-- TODO: depois do deploy no Streamlit Community Cloud, adicionar um screenshot em docs/dashboard-screenshot.png e referenciar aqui com ![Screenshot do dashboard](docs/dashboard-screenshot.png) -->
 
